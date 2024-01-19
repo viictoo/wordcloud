@@ -26,7 +26,7 @@ pumpkin_text = Counter(pumpkin_text)
 # print(pumpkin_text)
 
 # Importing mask
-pumpkin_mask = np.array(Image.open('black_alx.jpg'))
+pumpkin_mask = np.array(Image.open('assets/black_alx.jpg'))
 
 # Plot the wordcloud with the mask applied
 wc = WordCloud(background_color='black', mask= pumpkin_mask, 
