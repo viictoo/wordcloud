@@ -1,5 +1,5 @@
 # Word Cloud Visualization
-
+![metal bands](https://github.com/viictoo/wordcloud/blob/main/assets/Figure_1final.png)
 ## Introduction
 
 This project aims to visualize the frequency of words in a dataset using a word cloud. The word cloud is a popular data visualization technique that represents textual data. It uses size and color to represent the importance and frequency of a word in the text.
