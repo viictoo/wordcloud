@@ -1,3 +1,4 @@
+![alx](https://github.com/viictoo/wordcloud/blob/main/assets/alx_wordcloud.png)
 # Word Cloud Visualization
 ![metal bands](https://github.com/viictoo/wordcloud/blob/main/assets/Figure_1final.png)
 ## Introduction
@@ -27,7 +28,7 @@ cat assets/metal_bands.sql | mysql -u root -p databaseName
 2.Run the script, For example:
 
 ```bash
-python3 wordcloud.py
+python3 wordCloud.py
 ```
 
 2. The script will display the word cloud using `matplotlib`.
